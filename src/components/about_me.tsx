@@ -11,24 +11,19 @@ const AboutMe = () => {
                 </div>
                 </div>
 
+{/* Row for text/img  */}
         <div className='about-me-img-text-container'> 
-
             <img src="" alt="Khalil" className='about-me-img'  ></img>
-            <p> 
+   
+   <div className='about-me-text-colum'>
+            <p className='text-colum'> 
 
             Lorem ipsum dolor sit amet. Aut fuga sint 
 non alias voluptatem sed quibusdam conse
-quatur aut quam dolores et quisquam vitae a
- possimus maxime rem velit ducimus! Sed
-
-
-Lorem ipsum dolor sit amet. Aut fuga sint 
-non alias voluptatem sed quibusdam conse
-quatur aut quam dolores et quisquam vitae a
- possimus maxime rem velit ducimus! Sed
 
 
             </p>
+            </div>
             {/* Here comes a PDF file */}
             <img alt="PDF File"></img>
 
