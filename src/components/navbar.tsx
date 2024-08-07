@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/navbar.css';
-
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const  NavBar = () => {
   return (
@@ -12,7 +12,7 @@ const  NavBar = () => {
         <div className='
     navbar-items'>
 <ul>
-{/* <i className='fas fa-band-aid'></i><li>Icon</li>    */}
+<i className='fas fa-moon'></i>
 <li>Khalil</li>
 <li>About me</li>
 <li>Projects</li>
