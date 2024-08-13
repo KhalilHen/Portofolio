@@ -37,6 +37,7 @@
 
     wrap: wrap;         
     word-wrap: break-word;
+    flex-wrap: wrap;
     /* .text-colum {
 
         display: flex;
@@ -59,7 +60,8 @@
         p{
             display: flex;
             flex-direction: column; 
-            
+            overflow-wrap: break-word; /* Correct property for text wrapping */
+
             font-size: 20px;
             wrap: wrap;
             word-wrap: break-word;

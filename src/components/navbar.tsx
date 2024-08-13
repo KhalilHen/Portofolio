@@ -1,12 +1,12 @@
 import React from 'react';
 import './css/navbar.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-
+import './index.css'; 
 const  NavBar = () => {
   return (
 
     
-    <div className='navbar-container'>
+    <div className='flex  flex-row '>
 
 
         <div className='
