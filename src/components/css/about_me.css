@@ -1,0 +1,72 @@
+/* .about-me-container-text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 20vh;
+    width: 100%;
+    color: white;
+    font-size: 15px;
+    color: white;
+
+.about-me-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: space-evenly; 
+    color: white;
+    width: inherit;
+    text-shadow: 2px 2px 4px #000000;   
+    
+}
+
+
+
+}
+.about-me-img-text-container  {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    height: 20vh;
+    width: 100%;aa
+    background-color: #FF0000;
+
+    wrap: wrap;         
+    word-wrap: break-word;
+    flex-wrap: wrap;
+    /* .text-colum {
+
+        display: flex;
+        flex-direction: column;
+    } */
+        .about-me-img {
+            //Can't test this yet
+            border-radius: 50%;
+        }
+   
+
+}
+.about-me-text-colum {
+    font-size: 15px;    //
+
+    display: flex;
+        flex-direction: column; 
+        justify-content: center;
+
+        p{
+            display: flex;
+            flex-direction: column; 
+            overflow-wrap: break-word; /* Correct property for text wrapping */
+
+            font-size: 20px;
+            wrap: wrap;
+            word-wrap: break-word;
+            color: white;
+            text-shadow: 2px 2px 4px #000000;   
+        }
+
+} */
