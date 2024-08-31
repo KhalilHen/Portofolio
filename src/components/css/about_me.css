@@ -1,4 +1,4 @@
-/* .about-me-container-text {
+.about-me-container-text {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -37,7 +37,6 @@
 
     wrap: wrap;         
     word-wrap: break-word;
-    flex-wrap: wrap;
     /* .text-colum {
 
         display: flex;
@@ -60,8 +59,7 @@
         p{
             display: flex;
             flex-direction: column; 
-            overflow-wrap: break-word; /* Correct property for text wrapping */
-
+            
             font-size: 20px;
             wrap: wrap;
             word-wrap: break-word;
@@ -69,4 +67,4 @@
             text-shadow: 2px 2px 4px #000000;   
         }
 
-} */
+}
